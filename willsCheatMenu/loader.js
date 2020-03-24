@@ -1,3 +1,3 @@
 (async() => {
-	eval(await (await fetch("https://raw.githubusercontent.com/PatheticMustan/ProdigyMathGameHacking/HEAD/willsCheatMenu/dist/bundle.js")).text())
+	eval(await (await fetch("https://raw.githubusercontent.com/Jiankun-Huang/ProdigyMathGameHacking/HEAD/willsCheatMenu/dist/bundle.js")).text())
 })()
