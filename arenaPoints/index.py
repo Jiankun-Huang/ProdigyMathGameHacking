@@ -60,4 +60,4 @@ def hack():
 
 while True:
     hack()
-    sleep(60.5)
+    sleep(0.1)
